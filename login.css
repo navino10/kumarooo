@@ -1,0 +1,32 @@
+h5{
+    color:blue;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    font-family: sans-serif;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    
+}
+.submit-btn{
+    background-color:green;
+    color: #fff;
+    padding: 2%;
+    font-size: 22px;
+    margin-top: 10px;
+    border: 0;
+    cursor: pointer;
+}
+label{
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 10px 0;
+}
